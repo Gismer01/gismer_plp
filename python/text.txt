@@ -1,0 +1,4 @@
+Hello there!
+This is a sample text file.
+You can read this file, modify it, and write the changes into a new file.
+Have a great day!
